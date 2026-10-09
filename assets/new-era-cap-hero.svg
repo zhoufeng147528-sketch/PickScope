@@ -1,0 +1,28 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.5" stop-color="#EFF6FF"/>
+      <stop offset="1" stop-color="#ECFDF5"/>
+    </linearGradient>
+    <linearGradient id="cap" x1="300" y1="150" x2="900" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="980" cy="180" r="110" fill="#BFDBFE" opacity="0.7"/>
+  <circle cx="190" cy="610" r="160" fill="#BBF7D0" opacity="0.5"/>
+  <g>
+    <path d="M290 440C290 363.9 355.9 300 432 300H768C844.1 300 910 363.9 910 440V510C910 538.7 886.7 562 858 562H342C313.3 562 290 538.7 290 510V440Z" fill="url(#cap)"/>
+    <path d="M360 420C360 364 407 320 463 320H737C793 320 840 364 840 420V455C840 480.4 819.4 501 794 501H406C380.6 501 360 480.4 360 455V420Z" fill="#F8FAFC" opacity="0.9"/>
+    <path d="M396 270H804L760 330H440L396 270Z" fill="#475569"/>
+    <path d="M500 333H700V438C700 461.8 680.8 481 657 481H543C519.2 481 500 461.8 500 438V333Z" fill="#E2E8F0"/>
+    <path d="M560 365H640" stroke="#94A3B8" stroke-width="14" stroke-linecap="round"/>
+    <path d="M540 400H660" stroke="#94A3B8" stroke-width="12" stroke-linecap="round"/>
+    <path d="M520 434H680" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M440 540H760L784 610H416L440 540Z" fill="#111827" opacity="0.9"/>
+    <path d="M460 555H740" stroke="#F8FAFC" stroke-width="8" opacity="0.7"/>
+  </g>
+  <text x="600" y="690" text-anchor="middle" fill="#0F172A" font-size="52" font-weight="700" font-family="Arial, sans-serif">HOW TO BUY RIGHT</text>
+</svg>
